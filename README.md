@@ -1,2 +1,4 @@
 # SongListDatabse
-A database design of lists of songs from https://digitaldreamdoor.com/
+A database design of lists of songs scraped from https://digitaldreamdoor.com/
+Technologies used: BeautifulSoup, python
+Database: PostgreSQL
