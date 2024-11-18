@@ -2,6 +2,9 @@
 
 A database design for organizing lists of songs, created by scraping song data from [Digital Dream Door](https://digitaldreamdoor.com/). This project allows for storing, querying, and ranking songs across multiple curated lists.
 
+## Dashboard
+[![DashBoard](https://github.com/NisoomV/SongListDatabse/blob/638d43dca712687069496e3a6bc0e2eb04e8da22/DashBoard.png)](https://public.tableau.com/app/profile/nav.shubh.vashist/viz/Songtwb/Dashboard1?publish=yes)
+
 ## Project Overview
 
 This project leverages **BeautifulSoup** for web scraping, **Python** for data processing, and **Jupyter Notebooks** for documentation and code execution. The backend database is built with **PostgreSQL** to store and manage the song data in a relational format.
